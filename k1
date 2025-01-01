@@ -1,8 +1,13 @@
 hi hello all
 test for diff cmd
 test
+<<<<<<< HEAD
 
 manoj
 
 test messge 3
 commmit
+=======
+to all
+welcome to new year 2025
+>>>>>>> d706463119d983682477e4c896e45e2f0916d115
